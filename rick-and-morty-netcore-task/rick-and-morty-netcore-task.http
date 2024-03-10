@@ -1,0 +1,6 @@
+@rick_and_morty_netcore_task_HostAddress = http://localhost:5247
+
+GET {{rick_and_morty_netcore_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
